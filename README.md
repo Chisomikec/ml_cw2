@@ -39,7 +39,11 @@ cd ml_cw2
 ### 2. Run the Notebook
 
 Ensure you have installed all requirements using `pip install -r requirements.txt`
+Make sure you have Jupyter and `ipykernel` installed:
 
+```bash
+pip install notebook ipykernel
+```
 Open `al_strategies.ipynb` in **Jupyter Notebook** or **VS Code** and run the notebook cells sequentially to reproduce the experiments.
 
 ---
